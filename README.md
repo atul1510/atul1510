@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atul Kumar</h1>
 <h3 align="center">A passionate Coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul1510&label=Profile%20views&color=0e75b6&style=flat" alt="atul1510" /> </p>
 
 <p align="left"> <a href="https://twitter.com/itzatulkumar15" target="blank"><img src="https://img.shields.io/twitter/follow/itzatulkumar15?logo=twitter&style=for-the-badge" alt="itzatulkumar15" /></a> </p>
@@ -18,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/itzatulkumar15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzatulkumar15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atul1510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul1510" height="30" width="40" /></a>
-<a href="https://instagram.com/atul_kumar1510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atul_kumar1510" height="30" width="40" /></a>
+<a href="https://instagram.com/atul_kumar15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atul_kumar15" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/atul1510" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atul1510" height="30" width="40" /></a>
 </p>
 
