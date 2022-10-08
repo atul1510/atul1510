@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atul Kumar</h1>
 <h3 align="center">A passionate Coder from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul1510&label=Profile%20views&color=0e75b6&style=flat" alt="atul1510" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atul1510" alt="atul1510" /></a> </p>
