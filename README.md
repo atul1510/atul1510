@@ -29,6 +29,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=atul1510&show_icons=true&locale=en" alt="atul1510" /></p>
 <br>
-<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atul1510&show_icons=true&theme=merko)
+![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=atul1510&show_icons=true&theme=merko)
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul1510&" alt="atul1510" /></p>
