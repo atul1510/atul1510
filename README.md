@@ -14,7 +14,13 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/atul1510)
 
-- 💬 Ask me about **C, C++, Git, GitHub,Canva**
+- 🔭 Contributor in an Open Source Contribution Program **Hactoberfest'22**
+
+- 🌱 I’m currently learning **C++** & **DSA**
+
+- 👯 I’m looking to collaborate on **Some Cool Open source projects**
+
+- 💬 Ask me about **C, C++, Git, Github, JAVA**
 
 - 📫 How to reach me **Linkedin : https://www.linkedin.com/in/atul1510/**
 
