@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atul Kumar</h1>
+
+                                              A T U L  K U M A R ✨
+                      Open Source Enthusiast | Graphic Designer | Competitive Programmer | Explorer
+
 <h3 align="center">A passionate Coder from India</h3>
 <br>
 <div align="center">
@@ -8,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/itzatulkumar15" target="blank"><img src="https://img.shields.io/twitter/follow/itzatulkumar15?logo=twitter&style=for-the-badge" alt="itzatulkumar15" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/atul1510)
 
 - 💬 Ask me about **C, C++, Git, GitHub,Canva**
 
