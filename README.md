@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **C, C++, Git, GitHub,Canva**
 
-- 📫 How to reach me **Linktree : https://linktr.ee/atul1510**
+- 📫 How to reach me **Linkedin : https://www.linkedin.com/in/atul1510/**
 
 - ⚡ Fun fact **I think I Crack Good Jokes**
 
