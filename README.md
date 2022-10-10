@@ -33,6 +33,5 @@
 </div>
 <br>
 <div>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul1510" alt="atul1510" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul1510&" alt="atul1510" /></p>
 </div>
