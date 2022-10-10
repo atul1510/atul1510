@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **Linkedin : https://www.linkedin.com/in/atul1510/**
 
-- ⚡ Fun fact **I think I Crack Good Jokes**
+- ⚡ Fun fact **I think I Crack Good Jokes & Good Codes Also**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
