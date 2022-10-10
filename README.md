@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atul Kumar</h1>
+<h1 align="center">Hi 👋, I'm Atul Kumar! </h1>
 
                                                   A T U L  K U M A R ✨
                       Open Source Enthusiast | Graphic Designer | Competitive Programmer | Explorer
