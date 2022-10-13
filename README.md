@@ -47,6 +47,10 @@
 </p>
 
 
+<summary>:chart_with_upwards_trend: Contribution Chart </summary>
+   <br/>
+   <img src="https://activity-graph.herokuapp.com/graph?username=atul1510&theme=xcode" alt="Contribution Graph" align="center" />
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/atul1510/atul1510/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
