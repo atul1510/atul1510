@@ -48,5 +48,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TusharKesarwani/TusharKesarwani/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/atul1510/atul1510/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
