@@ -59,7 +59,7 @@
 <br/>
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 
 <h3>Atul's GitHub stats<h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul1510&label=Profile%20views&color=0e75b6&style=flat" alt="atul1510" /> </p>
@@ -71,14 +71,12 @@
 </p>
 
 
-<summary>:chart_with_upwards_trend: Contribution Chart </summary>
-   <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=atul1510&theme=xcode" alt="Contribution Graph" align="center" />
+<summary>:trophy: Github Profile Trophy</summary>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=atul1510&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/atul1510/atul1510/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-<div align="center">
+<br/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
 <br/>
