@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Atul Kumar! </h1>
+<h1 align="center">Hi there👋, I'm Atul Kumar! </h1>
 
-                                                  A T U L  K U M A R ✨
-                      Open Source Enthusiast | Graphic Designer | Competitive Programmer | Explorer
+                                                  A T U L  K U M A R 
+                     GitHub Campus Expert 🚩 | Web developer | Competitive Programmer | Explorer
 
-<h3 align="center">A passionate Coder from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 <br>
 <div align="center">
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul1510&label=Profile%20views&color=0e75b6&style=flat" alt="atul1510" /> </p>
 
-<p align="left"> <a href="https://twitter.com/itzatulkumar15" target="blank"><img src="https://img.shields.io/twitter/follow/itzatulkumar15?logo=twitter&style=for-the-badge" alt="itzatulkumar15" /></a> </p>
+[![Linkedin: Atul-Kumar](https://img.shields.io/badge/-sahilkesarwani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-kesarwani/)](https://www.linkedin.com/in/atul1510)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/atul1510)
 
