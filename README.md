@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/atul1510/" target="_blank"> Atul Kumar </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Nice+to+meet+you!+%3A)" /> </h3>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/atul1510/" target="_blank"> Atul Kumar </a></h1><br>
+
 
                                                   A T U L  K U M A R 
                      GitHub Campus Expert 🚩 | Web developer | Competitive Programmer | Explorer
 
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=A+passionate+developer+from+India!+%3A)" /> </h3>
 <br>
 <div align="center">
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
