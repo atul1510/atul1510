@@ -14,15 +14,17 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/atul1510)
 
-- 🔭 Contributor in an Open Source Contribution Program **Hactoberfest'22**
+- 🔭 Contributor in an Open Source Contribution Program **Hactoberfest'22 & 23**
 
 - 🌱 I’m currently learning **C++** & **DSA**
 
 - 👯 I’m looking to collaborate on **Some Cool Open source projects**
 
-- 💬 Ask me about **C, C++, Git, Github, JAVA**
+-   💬 Ask me about C/C++, HTML, CSS, JavaScript, MongoDB, Node.js, Express.js.
 
-- 📫 How to reach me **Linkedin : https://www.linkedin.com/in/atul1510/**
+-   📫 How to reach me: [linkedin:@Atul](https://www.linkedin.com/in/atul1510) , [Twitter@Atul](https://www.instagram.com/itzmeatul
+  
+-   😄 Pronouns: He/His
 
 - ⚡ Fun fact **I think I Crack Good Jokes & Good Codes Also**
 
@@ -59,8 +61,6 @@
 <br/>
 
 
-
-
 <h3>Atul's GitHub stats<h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul1510&label=Profile%20views&color=0e75b6&style=flat" alt="atul1510" /> </p>
 
@@ -75,10 +75,13 @@
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=atul1510&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
+  <br/>
 <br/>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
 <br/>
 
 ---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
