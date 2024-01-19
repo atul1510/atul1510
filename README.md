@@ -14,11 +14,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me: </h3>
 
-- 🎓 I'm a third-year Electronics and Communication Engineering student at Shambhunath MMMUT.
+- 🎓 I'm a **third-year** undergraduate student pursuing Electronics and Communication Engineering at MMMUT.
 
-- 🔭 Contributor in an Open Source Contribution Program **Hactoberfest'22 & 23**
+- 🔭 Contributor in an Open Source Program **Hactoberfest'22 & 23**
 
-- 👯 I’m looking to collaborate on **Some Cool Open source projects**
+- 👯 I’m looking forward to collaborate on **Some Cool Open source projects**
 
 - 💬 Ask me about **C/C++, HTML, CSS, JavaScript, MongoDB, Node.js, Express.js.**
   
