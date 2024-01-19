@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/atul1510/" target="_blank"> Atul Kumar </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer+%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Nice+to+meet+you!+%3A)" /> </h3>
 
                                                   A T U L  K U M A R 
                      GitHub Campus Expert 🚩 | Web developer | Competitive Programmer | Explorer
@@ -9,33 +9,23 @@
 <div align="center">
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atul1510&label=Profile%20views&color=0e75b6&style=flat" alt="atul1510" /> </p>
 
-[![Linkedin: Atul-Kumar](https://img.shields.io/badge/-atul1510-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atul1510/)](https://www.linkedin.com/in/atul1510)
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/atul1510)
 
 - 🔭 Contributor in an Open Source Contribution Program **Hactoberfest'22 & 23**
 
-- 🌱 I’m currently learning **C++** & **DSA**
-
 - 👯 I’m looking to collaborate on **Some Cool Open source projects**
 
--   💬 Ask me about C/C++, HTML, CSS, JavaScript, MongoDB, Node.js, Express.js.
-
--   📫 How to reach me: [linkedin:@Atul](https://www.linkedin.com/in/atul1510) , [Twitter@Atul](https://www.instagram.com/itzmeatul
+- 💬 Ask me about **C/C++, HTML, CSS, JavaScript, MongoDB, Node.js, Express.js.**
   
--   😄 Pronouns: He/His
-
-- ⚡ Fun fact **I think I Crack Good Jokes & Good Codes Also**
+- ⚡ Fun fact **I can Crack Good Jokes & Good Codes Also**
+  
+ - 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/itzatulkumar15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzatulkumar15" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atul1510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul1510" height="30" width="40" /></a>
-<a href="https://instagram.com/atul_kumar15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atul_kumar15" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/atul1510" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atul1510" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/atul1510/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:atul1510@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
 
 <br/>
 <h3> 🛠 &nbsp;Tech Stack</h3>
