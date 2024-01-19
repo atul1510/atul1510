@@ -10,6 +10,11 @@
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
+<br/>
+
+<h3> 👨🏻‍💻 &nbsp;About Me: </h3>
+
+- 🎓 I'm a third-year Electronics and Communication Engineering student at Shambhunath MMMUT.
 
 - 🔭 Contributor in an Open Source Contribution Program **Hactoberfest'22 & 23**
 
@@ -21,6 +26,7 @@
   
  - 😄 Pronouns: He/His
 
+  
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/atul1510/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -28,6 +34,7 @@
 </div>
 
 <br/>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 -   💻 &nbsp;
@@ -49,6 +56,8 @@
 -   🔧 &nbsp;
     ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-000000?style=for-the-badge&logo=VisualStudioCode)
 
+
+
 <br/>
 
 
@@ -62,6 +71,8 @@
 </p>
 
 
+<br/>
+
 <summary>:trophy: Github Profile Trophy</summary>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=atul1510&theme=monokai&row=1&no-frame=true&no-bg=true/">
@@ -69,10 +80,10 @@
   <br/>
 <br/>
 <div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring the repositories!</h3>
 </div>
 <br/>
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to connect with different peoples</b> just drop a <b>hi, I'll be happy to meet you more!</b> :)</em>
