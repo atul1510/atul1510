@@ -10,7 +10,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul1510&label=Profile%20views&color=0e75b6&style=flat" alt="atul1510" /> </p>
 
-[![Linkedin: Atul-Kumar](https://img.shields.io/badge/-sahilkesarwani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-kesarwani/)](https://www.linkedin.com/in/atul1510)
+[![Linkedin: Atul-Kumar](https://img.shields.io/badge/-atul1510-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atul1510/)](https://www.linkedin.com/in/atul1510)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/atul1510)
 
