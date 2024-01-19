@@ -1,4 +1,5 @@
-<h1 align="center">Hi there👋, I'm Atul Kumar! </h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/atul1510/" target="_blank"> Atul Kumar </a></h1>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer+%3A)" /> </h3>
 
                                                   A T U L  K U M A R 
                      GitHub Campus Expert 🚩 | Web developer | Competitive Programmer | Explorer
