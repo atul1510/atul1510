@@ -1,8 +1,9 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/atul1510/" target="_blank"> Atul Kumar </a></h1><br>
 
+# Hiiiiii! :strawberry: :octocat: 
+**GitHub Campus Expert at <a href="https://githubcampus.expert/">GitHub Education</a><img src="https://media.giphy.com/media/jTNaPTjk7mOIj4F5kj/giphy.gif" width="30"></em></p>**
 
                                                   A T U L  K U M A R 
-                     GitHub Campus Expert 🚩 | Salesforce developer | Competitive Programmer | Explorer
+                                  GitHub Campus Expert 🚩 | Salesforce developer 
 
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=A+passionate+developer+from+India!+%3A)" /> </h3>
 <br>
